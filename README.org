@@ -4,7 +4,9 @@
 
 * Introduction
 
-FC
+The package to perform 3+1 oscillation analysis in MicroBooNE. It is designed to set exclussion limits (find allowed regions) using Feldman-Cousins / Frequentist CLs / Wilks methods for neted hypothesis testing. 
+
+Note: The package is a PyTorch adaptation of CPU-based TOsc package 
 
 * Install
 
