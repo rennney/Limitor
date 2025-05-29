@@ -4,7 +4,7 @@
 
 * Introduction
 
-The package to perform 3+1 oscillation analysis in MicroBooNE. It is designed to set exclussion limits (find allowed regions) using Feldman-Cousins / Frequentist CLs / Wilks methods for neted hypothesis testing. 
+This package performs 3+1 neutrino oscillation analysis for MicroBooNE. It is designed to set exclusion limits (or determine allowed regions) using frequentist statistical methods, including Feldman-Cousins, CLs, and Wilks' theorem, for nested hypothesis testing.
 
 Note: The package is a PyTorch adaptation of CPU-based TOsc package 
 
